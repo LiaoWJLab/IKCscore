@@ -1,6 +1,6 @@
 Package: IKCscore
 Type: Package
-Title: Score calculation for immunotherapy prediction of non small lung caner
+Title: Score calculation for immunotherapy prediction of non small cell lung caner
 Version: 0.1.0
 Author: Dongqiagn Zeng, Jiani Wu
 Maintainer: Dongqiang Zeng <interlaken@smu.edu.cn>

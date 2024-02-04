@@ -12,7 +12,8 @@ LazyData: true
 Imports: 
     crayon,
     IOBR,
-    ggplot2
+    ggplot2,
+    scales
 Depends: 
-    R (>= 2.10)
+    R (>= 3.10)
 RoxygenNote: 7.2.3
